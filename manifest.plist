@@ -31,11 +31,13 @@
 				<key>bundle-identifier</key>
 				<string>com.intelloid.snuh</string>
 				<key>bundle-version</key>
-				<string>1.05</string>
+				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
+				<key>platform-identifier</key>
+				<string>com.apple.platform.iphoneos</string>
 				<key>title</key>
-				<string>SNUH 마리그로</string>
+				<string>SNUH 마리글로</string>
 			</dict>
 		</dict>
 	</array>
